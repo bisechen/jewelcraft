@@ -542,7 +542,7 @@ msgid "Oval"
 msgstr "椭圓形"
 
 msgid "Cushion"
-msgstr "墊形"
+msgstr "枕形"
 
 msgid "Pear"
 msgstr "梨形"
@@ -560,13 +560,13 @@ msgid "Square"
 msgstr "正方形"
 
 msgid "Asscher"
-msgstr ""
+msgstr " 阿斯切（上丁方形）"
 
 msgid "Radiant"
-msgstr ""
+msgstr "雷地恩"
 
 msgid "Flanders"
-msgstr ""
+msgstr "弗蘭德斯"
 
 msgid "Octagon"
 msgstr "八角形"
@@ -575,10 +575,10 @@ msgid "Heart"
 msgstr "心形"
 
 msgid "Trillion"
-msgstr ""
+msgstr "三角形（圓邊）"
 
 msgid "Trilliant"
-msgstr ""
+msgstr "三角形 （直邊花式）"
 
 msgid "Triangle"
 msgstr "三角形"
