@@ -793,7 +793,7 @@ msgstr "恢復寶石"
 
 msgctxt "Operator"
 msgid "Distribute on Curve"
-msgstr "分布曲線"
+msgstr "分布到曲線"
 
 msgctxt "Operator"
 msgid "Prongs"
@@ -849,7 +849,7 @@ msgstr "重新命名類別"
 
 msgctxt "Operator"
 msgid "Override"
-msgstr "自訂設定"
+msgstr "自訂覆蓋設定"
 
 msgctxt "Operator"
 msgid "Clear List"
